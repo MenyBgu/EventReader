@@ -1,0 +1,8 @@
+EventReader\Root.class
+EventReader\ReaderController.class
+EventReader\XmlToObject.class
+EventReader\ReaderApiApp.class
+EventReader\RequestDetails.class
+EventReader\H2jdbc.class
+EventReader\Product.class
+EventReader\Event.class
